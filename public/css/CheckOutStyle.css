@@ -1,0 +1,28 @@
+.address-details {
+    margin-top: 20px;
+}
+
+.address-item {
+    display: flex;
+    margin-bottom: 10px;
+    gap: 15px;
+    font-size: 16px;
+}
+
+.address-item strong {
+    width: 150px;  /* Adjust this as needed */
+}
+
+.payment-options {
+    margin-top: 20px;
+}
+
+.payment-btns {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.payment-btns .btn {
+    width: 48%; /* To fit the buttons side by side */
+}
